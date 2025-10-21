@@ -1,6 +1,6 @@
 # Project-AMADEUS
 
-Beginner coders are very dependent on AI for debugging and logic building which is a very bad practice for new learner. So to prevent this (kind of ?) AMADEUS was created.
+Beginner coders are very dependent on AI for debugging and logic building which is a very big concern. So to prevent this (kind of ?) AMADEUS was created.
 It helps to keep track on your usage of AI and enables it's users to rely less on AI. 
 You might ask "How does AMADEUS do that?", well to answer that lets see how AMADEUS works;
 
