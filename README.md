@@ -1,5 +1,8 @@
 # Project-AMADEUS
-**Easter Egg:- The name AMADEUS comes from the show Steins; Gate, specifically Steins; Gate 0.
+
+Beginner coders are very dependent on AI for debugging and logic building which is a very bad practice for new learner. So to prevent this (kind of ?) AMADEUS was created.
+It helps to keep track on your usage of AI and enables it's users to rely less on AI. 
+You might ask "How does AMADEUS do that?", well to answer that lets see how AMADEUS works;
 
 Core Functionality
 It is a voice activated coding assitant that when used the trigger word (default: "Command Arise") would copy your code and then try to look for errors and possible fix using the Google Gemini Model.
@@ -11,3 +14,4 @@ Everytime the trigger word is used some points will be deducted. If enough point
 AMADEUS also require a minimum of 500 points for it to work if points decrease below this threshold, it will lead to a freeze. The trigger word will not work unless the minimum threshold is reached again.
 
 
+**Easter Egg:- The name AMADEUS comes from the show Steins; Gate, specifically Steins; Gate 0.
