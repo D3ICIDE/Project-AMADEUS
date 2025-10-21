@@ -277,22 +277,22 @@ public class AMADEUS_PHASE_3 extends Application {
 
         //images
 
-         frame_01 = new Image("file:\\C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\0.png");
-         frame_02 = new Image("file:\\C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\1.png");
-         frame_03 =new Image("file:\\C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\2.png");
-         frame_04 =new Image("file:\\C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3.png");
-         frame_05 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-1.png");
-         frame_06= new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-2.png");
-         frame_07 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-4.png");
-         frame_08 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-5.png");
-         frame_09 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-6.png");
-         frame_10 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-7.png");
-         frame_11 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-8.png");
-         frame_12 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\javaFX\\src\\main\\resources\\3-9.png");
-         frame_13 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\Amadeus2\\src\\main\\resources\\01.png");
-        frame_14 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\Amadeus2\\src\\main\\resources\\02.png");
-        frame_15 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\Amadeus2\\src\\main\\resources\\03.png");
-        frame_16 = new Image("file:C:\\Users\\vaibh\\IdeaProjects\\Amadeus2\\src\\main\\resources\\04.png");
+         frame_01 = new Image("path to 0.png");
+         frame_02 = new Image("path to 1.png");
+         frame_03 =new Image("path to 2.png");
+         frame_04 =new Image("path to 3.png");
+         frame_05 = new Image("path to 3-1.png");
+         frame_06= new Image("path to 3-2.png");
+         frame_07 = new Image("path to 3-4.png");
+         frame_08 = new Image("path to 3-5.png");
+         frame_09 = new Image("path to 3-6.png");
+         frame_10 = new Image("path to 3-7.png");
+         frame_11 = new Image("path to 3-8.png");
+         frame_12 = new Image("path to 3-9.png");
+         frame_13 = new Image("path to 01.png");
+        frame_14 = new Image("path to 02.png");
+        frame_15 = new Image("path to 03.png");
+        frame_16 = new Image("path to 04.png");
 
          //Exp collection
         this.rewardEngine = new RewardManager(this, point);
@@ -451,3 +451,4 @@ public class AMADEUS_PHASE_3 extends Application {
         super.stop();
     }
 }
+
