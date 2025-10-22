@@ -17,3 +17,5 @@ AMADEUS also require a minimum of 500 points for it to work if points decrease b
 
 
 **Easter Egg:- The name AMADEUS comes from the show Steins; Gate, specifically Steins; Gate 0.
+
+** All the art has been created using AI
